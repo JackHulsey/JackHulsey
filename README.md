@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi! My name is Jack Hulsey and I am currently a student at St. Lawrence University!
 
 <!--
 **JackHulsey/JackHulsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
