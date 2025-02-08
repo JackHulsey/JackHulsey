@@ -1,4 +1,6 @@
-Hi! My name is Jack Hulsey and I am currently a student at St. Lawrence University!
+Hi! My name is Jack Hulsey and I'm a senior studying Computer Science and Mathematics at St. Lawrence University
+
+I’m currently focused on algorithmic analysis and web development, and I’m working on a project that ranks football teams using complex linear algebra. As the Captain of the Nordic Ski team at St. Lawrence, I’m really making the most of my time in Canton!
 
 <!--
 **JackHulsey/JackHulsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
